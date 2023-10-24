@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <use-permission android:name="android.permission.VIBRATE"/>
+    <use-permission android:name="android.permission.INTERNET"/>
     <application
         android:label="chat_gpt_clone"
         android:name="${applicationName}"
