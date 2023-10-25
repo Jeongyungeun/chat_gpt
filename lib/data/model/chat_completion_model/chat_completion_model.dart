@@ -1,4 +1,5 @@
-import 'package:chat_gpt_clone/model/message_model/open_ai_model.dart';
+
+import 'package:chat_gpt_clone/data/model/message_model/open_ai_model.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'chat_completion_model.freezed.dart';

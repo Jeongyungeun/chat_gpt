@@ -2,7 +2,6 @@
 // ChatCompletionModel
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'open_ai_model.freezed.dart';
 part 'open_ai_model.g.dart';
